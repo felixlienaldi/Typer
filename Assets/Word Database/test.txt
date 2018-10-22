@@ -137,7 +137,7 @@ sparkling
 post
 heartbreaking
 lock
-old-fashioned
+oldfashioned
 skillful
 standing
 trick
@@ -199,7 +199,7 @@ brother
 holistic
 overconfident
 wooden
-black-and-white
+blackandwhite
 acoustics
 useless
 teeny
@@ -334,7 +334,7 @@ self
 regret
 waste
 idiotic
-teeny-tiny
+teenytiny
 reply
 smash
 gifted
@@ -407,12 +407,12 @@ balance
 carve
 stale
 count
-wide-eyed
+wideeyed
 craven
 orange
 profuse
 dusty
-ill-informed
+illinformed
 card
 round
 toys
@@ -669,7 +669,7 @@ orange
 knife
 blink
 psychedelic
-extra-large
+extralarge
 land
 intelligent
 team
@@ -723,7 +723,7 @@ troubled
 taste
 tiger
 farm
-well-groomed
+wellgroomed
 chess
 gullible
 quaint
@@ -968,7 +968,7 @@ dark
 silent
 faint
 wandering
-blue-eyed
+blueeyed
 automatic
 attractive
 toy
@@ -1048,7 +1048,7 @@ wrathful
 petite
 cynical
 illegal
-bite-sized
+bitesized
 tremendous
 spiders
 aftermath
@@ -1056,7 +1056,7 @@ zippy
 river
 thought
 partner
-extra-small
+extrasmall
 glorious
 unequal
 brown
@@ -1228,7 +1228,7 @@ soft
 provide
 paint
 degree
-x-ray
+xray
 stove
 goofy
 ashamed
@@ -1240,7 +1240,7 @@ group
 army
 fearless
 delightful
-far-flung
+farflung
 fade
 mellow
 annoying
@@ -1438,7 +1438,7 @@ loutish
 demonic
 sister
 sheet
-hard-to-find
+hardtofind
 fit
 ahead
 secret
@@ -1486,7 +1486,7 @@ hallowed
 desk
 mate
 year
-well-to-do
+welltodo
 welcome
 place
 foregoing
@@ -1579,7 +1579,7 @@ gleaming
 hysterical
 stupendous
 gusty
-ill-fated
+illfated
 bless
 disagreeable
 madly
@@ -1631,7 +1631,7 @@ week
 penitent
 wash
 insidious
-second-hand
+secondhand
 alert
 functional
 key
@@ -1768,7 +1768,7 @@ smell
 draconian
 female
 laughable
-high-pitched
+highpitched
 snake
 aquatic
 spiritual
@@ -1911,7 +1911,7 @@ fire
 curvy
 roomy
 knowledge
-well-off
+welloff
 cattle
 naive
 interesting
